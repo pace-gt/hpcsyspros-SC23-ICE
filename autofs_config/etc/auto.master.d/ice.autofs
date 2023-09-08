@@ -1,0 +1,4 @@
+# Controlled by salt
+#
+/-    /etc/auto.master.d/pace-autofs.conf
+/home/ice     program:/usr/local/bin/ice_map.sh
